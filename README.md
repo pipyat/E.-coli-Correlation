@@ -11,4 +11,4 @@
 
 # Division time is then proportional to the number of this molecule inherited as well as some rate, R. 
 
-# By altering statistical parameters, experimental data can be recreated
+# By altering statistical parameters, experimental results can be matched.
