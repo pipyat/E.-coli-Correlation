@@ -1,4 +1,5 @@
 # E.-coli-Correlation
+# Very old code from when I was still fairly new to Python
 # This code was based on a project I carried out at the University of Surrey. The aim was to model E. coli division based on the random sharing of some division factor.
 # This approach allows us to control sister-sister and mother-daughter division time correlation - some experimental findings demonstrated a lack of correlation between mothers and daughters but found high sister-sister correlation, as if a genetic dice was thrown upon division.
 
