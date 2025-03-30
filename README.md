@@ -11,4 +11,4 @@
 
 # Division time is then proportional to the number of this molecule inherited as well as some rate, R. 
 
-# Division time correlation can be controlled by altering statistical parameters
+# By altering statistical parameters, experimental data can be recreated
